@@ -23,6 +23,14 @@
             vertical-align: middle
         }
 
+        .pull-left {
+            float: left;
+        }
+
+        .pull-right {
+            float: right;
+        }
+
         .hcenter {
             top: 50%;
             transform: translate(0, -50%)
@@ -44,6 +52,10 @@
         h1 {
             font-size: 80px !important;
             font-weight: bold;
+        }
+
+        comment {
+            display: none;
         }
 
         .black {
@@ -88,279 +100,659 @@
             width: 25px;
             display: inline-block;
         }
+
+        column {
+            max-width: 420px;
+        }
+
+        column.l {
+            margin-left: 100px;
+        }
+
+        column.r {
+            margin-right: 100px;
+        }
+
+        .sample {
+            margin: 0;
+        }
     </style>
 </head>
 <body class="list">
 <header class="caption">
-    <h1>Let's cook agile</h1>
+    <h1>Алгоритм 3d реконструкції<br>порожнини рота</h1>
 </header>
 
-<section class="slide cover" style="background: white">
+<section class="slide cover">
+    <div style="background: white">
+        <br>
+        <br>
+        <br>
+        <h2 class="black point">Алгоритм 3d реконструкції<br>порожнини рота</h2>
+        <p class="black point"><a class="black" href="http://vk.com/myzone">Гольденштейн В.О.</a></p>
+    </div>
+    <comment>
+        # представление
+        Здравствуйте, я ...
+    </comment>
+</section>
+
+<section class="slide">
     <div>
-        <br>
-        <br>
-
-        <h1 class="point white">Let's cook agile</h1>
-
-        <p class="white" style="padding-left: 220px">by <a class="white" href="http://vk.com/myzone">Vyacheslav
-            Goldenshteyn</a></p>
-        <img class="wfill blur" src="pictures/vector/kitchen.svg"/>
+        <h2 class="black">Проблема</h2>
+        <h2>Недоступність профілактики хронічних захворювань порожнини рота.</h2>
     </div>
 </section>
 
 <section class="slide">
-    <h2 class="black slide-title">To create a masterpiece</h2>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">You will need a devteam.</h2>
     <div>
-        <img class="wfill" src="pictures/vector/1.svg">
+        <h2 class="black">Ринок</h2>
+
+        <column class="place l">
+            <h2>
+                <center>$75 000 000</center>
+            </h2>
+            <p>
+            <center>Ринок носимої електроніки<sup>*</sup><br><br></center>
+            </p>
+        </column>
+        <column class="place r">
+            <h2 class>
+                <center>28%</center>
+            </h2>
+            <p>
+            <center>Активно стежать за станом<br> власних зубів<sup>**</sup></center>
+            </p>
+        </column>
+
+        <br><br><br><br><br><br>
+        <p class="note">
+            * - за даними Goldman Sachs на 3 квартал 2015 рік<br>
+            ** - за даними FDI на 3 квартал 2015 рік
+        </p>
     </div>
+
+    <comment>
+        # рынок
+        Рассказать колько стоматологи тратят в Украине ежегодно бабла на оборудование.
+        Рассказать сколько потребитеели тратят на лечение последствий вялотекущих заболеваний.
+    </comment>
 </section>
 
-<section class="slide cover">
-    <h2 class="black slide-title">Let's take our devteam</h2>
+<section class="slide">
     <div>
-        <img class="wfill" src="pictures/vector/2.svg">
+        <h2 class="black">Рішення</h2>
+
+        <center>
+            <img src="pictures/solution.png">
+        </center>
     </div>
+
+    <comment>
+        # решение
+        Более эфкектиная коммуникация за счет...
+        Повышение качества профилактики коммуникация за счет...
+
+        Предложить доступный сканер полости рта
+        Удешевить 3д сканер , сделать процесс сканировая простым и удобным.
+    </comment>
 </section>
 
-<section class="slide cover">
-    <h2 class="black slide-title">fill half of it with Scrum</h2>
+<section class="slide">
     <div>
-        <img class="wfill" src="pictures/vector/3.svg">
-    </div>
-</section>
+        <h2 class="black">Аналоги
+            <mark class="gray">1/2</mark>
+        </h2>
 
-<section class="slide cover">
-    <h2 class="black slide-title">and put it on a project reach the boiling point.</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/4.svg">
-    </div>
-</section>
+        <column class="place l">
+            <img height="220" src="pictures/alt1.jpg">
+            <div>PlanScan</div>
+        </column>
 
-<section class="slide cover">
-    <h2 class="black slide-title">Meanwhile let's take our Problem</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/5.svg">
-    </div>
-</section>
+        <column class="place r">
+            <img height="220" src="pictures/alt2.jpg">
+            <div>iTero</div>
 
-<section class="slide cover">
-    <h2 class="black slide-title">slice it thin</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/6.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">as thin as userstory could be.</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/5.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="slide-title"><mark class="gray comment">Chewing gum will help our eyes to stay dry.</mark></h2>
-    <div>
-        <img class="wfill" src="pictures/vector/6.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">Now let's add sliced userstories to our project</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/7.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">and leave it for a while to boil.</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/4.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">At the same time we take pair programming</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/8.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">some TDD</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/9.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">and whip it with our tools</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/10.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">until it reaches</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/11.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">cloudy-cream continuous integration.</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/10.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">Let's digress and leave our devops team to heat up a bit.</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/12.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">Continuing whipping</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/11.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">until reaching a smooth colour</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/10.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">of continuous delivery.</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/11.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <div>
-        <img class="wfill" src="pictures/vector/12.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">Now it's time to leave all infrastructure in devop's team.</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/13.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">Now we can take some rest. </h2>
-    <div>
-        <img class="wfill" src="pictures/vector/12.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">And now it's time to</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/14.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">grind architecture with refractoring.</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/15.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <div>
-        <img class="wfill" src="pictures/vector/14.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <div>
-        <img class="wfill" src="pictures/vector/15.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">The only thing left is to add</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/16.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">some timetracking</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/17.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">BDD</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/18.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">and a pinch of teambuilding to make it taste better.</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/19.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">So, our dish is ready.</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/20.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">It should be brought up with a experienced manager.</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/20.svg">
-    </div>
-</section>
-
-<section class="slide cover">
-    <h2 class="black slide-title">Hurry up, until it gets cold! ;)</h2>
-    <div>
-        <img class="wfill" src="pictures/vector/20.svg">
+            <img height="220" src="pictures/alt3.png">
+            <div>TRIOS</div>
+        </column>
     </div>
 </section>
 
 <section class="slide">
+    <div>
+        <h2 class="black">Аналоги
+            <mark class="gray">2/2</mark>
+        </h2>
+
+        <table>
+            <thead>
+            <tr>
+                <th>Назва</th>
+                <th>Тривалість<br>сканування</th>
+                <th>Роздільна<br>здатність</th>
+                <th>Вартість</th>
+                <th>Портативність</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>iTero</td>
+                <td>10-15 хвилин</td>
+                <td>0.01 мм</td>
+                <td>$82 000</td>
+                <td>Стаціонарний</td>
+            </tr>
+            <tr>
+                <td>True Definition</td>
+                <td>5-6 хвилин</td>
+                <td>0.03 мм</td>
+                <td>$67 000</td>
+                <td>Стаціонарний</td>
+            </tr>
+            <tr>
+                <td>Lythos</td>
+                <td>7 хвилин</td>
+                <td>0.02 мм</td>
+                <td>N/A</td>
+                <td>Стаціонарний</td>
+            </tr>
+            <tr>
+                <td>TRIOS</td>
+                <td>5 хвилин</td>
+                <td>0.05 мм</td>
+                <td>N/A</td>
+                <td>Стаціонарний</td>
+            </tr>
+            <tr>
+                <td>FastScan</td>
+                <td>4 хвилин</td>
+                <td>0.05 мм</td>
+                <td>$48 500</td>
+                <td>Стаціонарний</td>
+            </tr>
+            <tr>
+                <td>PlanScan</td>
+                <td>8 хвилин</td>
+                <td>0.02 мм</td>
+                <td>N/A</td>
+                <td>Портативний<sup>*</sup></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <comment>
+        ## конкуренты
+        Первая проблема может быть решена при помощи дорогостоящих проф. устройств, решающих проблему стоматологического
+        протезирования,
+        позволяя производить все этапы в цифровом виде.
+        При этом достигается (найти точные данные) точность, благодаря использованию лазерных (и других, найти список
+        научных названий) технологий.
+        Вторая проблема не может быть решена при помощи таких устройств, т.к. очень дороги, а так же они сложны в
+        использовании.
+        Такая точность является избысточной для решения проблем, описанных выше, следовательно решение заключается в
+        использовании менее точной, но более дешевой технологии.
+        Ближайшим конкурентом в данной области (2й проблемы) являются зубные щетки с акселерометром, которые могут
+        ковенно оценивать качество и регулярность чистки зубов, однако их точность слишком низка.
+        Технологией с оптимальной для решения данных проблем точностью является 3д реконструкция.
+    </comment>
+</section>
+
+
+<!--<section class="slide">-->
+    <!--<div>-->
+        <!--<h2 class="black">Переваги оптичного сканеру</h2>-->
+
+        <!--<ul>-->
+            <!--<li>Портативність</li>-->
+            <!--<li>Низька собівартість</li>-->
+            <!--<li>Простота використання</li>-->
+            <!--<li>Швидкість зйомки</li>-->
+            <!--<li>Достатня точність<sup>*</sup></li>-->
+        <!--</ul>-->
+    <!--</div>-->
+
+    <!--<comment>-->
+        <!--# Приемущества-->
+        <!--Показасть гистрограмму сравнения цен существующих девайсов и моего девайса-->
+        <!--Показать фотографии девайлов-->
+        <!--Показать прототив-->
+    <!--</comment>-->
+<!--</section>-->
+
+<section class="slide">
+    <div>
+        <h2 class="black">Мета дипломної роботи</h2>
+        <h2>Максимізація точності 3d реконструкції порожнини рота шляхом підбору алгоритму та класу вхідних даних.</h2>
+    </div>
+</section>
+
+<section class="slide">
+    <div>
+        <h2 class="black" style="width: 110%;">Робота алгоритмів MultiView-реконструкції</h2>
+
+
+        <column class="place l">
+            <br>
+            <br>
+            <img height="330" src="pictures/incremental_sfm1.png">
+        </column>
+
+        <column class="place r">
+            <br>
+            <br>
+
+            <img height="350" src="pictures/algo.svg" style="margin-left: -250px">
+        </column>
+    </div>
+</section>
+
+<section class="slide">
+    <div>
+        <h2 class="black">Підготовка даних
+            <mark class="gray">1/2</mark>
+        </h2>
+
+        <center>
+            <img height="400" src="pictures/reconstruction/10.png">
+        </center>
+    </div>
+</section>
+
+<section class="slide">
+    <div>
+        <h2 class="black">Підготовка даних
+            <mark class="gray">2/2</mark>
+        </h2>
+
+        <div>
+            <img class="sample" height="75" src="pictures/samples/asd0000.png">
+            <img class="sample" height="75" src="pictures/samples/asd0005.png">
+            <img class="sample" height="75" src="pictures/samples/asd0135.png">
+            <img class="sample" height="75" src="pictures/samples/asd0165.png">
+            <img class="sample" height="75" src="pictures/samples/asd0225.png">
+            <img class="sample" height="75" src="pictures/samples/asd0245.png">
+            <img class="sample" height="75" src="pictures/samples/asd0250.png">
+            <img class="sample" height="75" src="pictures/samples/asd0280.png">
+            <img class="sample" height="75" src="pictures/samples/asd0340.png">
+            <img class="sample" height="75" src="pictures/samples/asd0345.png">
+            <img class="sample" height="75" src="pictures/samples/asd0390.png">
+            <img class="sample" height="75" src="pictures/samples/asd0395.png">
+            <img class="sample" height="75" src="pictures/samples/asd0400.png">
+            <img class="sample" height="75" src="pictures/samples/asd0435.png">
+            <img class="sample" height="75" src="pictures/samples/asd0450.png">
+            <img class="sample" height="75" src="pictures/samples/asd0495.png">
+            <img class="sample" height="75" src="pictures/samples/asd0515.png">
+            <img class="sample" height="75" src="pictures/samples/asd0520.png">
+            <img class="sample" height="75" src="pictures/samples/asd0525.png">
+            <img class="sample" height="75" src="pictures/samples/asd0605.png">
+            <img class="sample" height="75" src="pictures/samples/asd0610.png">
+            <img class="sample" height="75" src="pictures/samples/asd0695.png">
+            <img class="sample" height="75" src="pictures/samples/asd0700.png">
+            <img class="sample" height="75" src="pictures/samples/asd0705.png">
+            <img class="sample" height="75" src="pictures/samples/asd0710.png">
+            <img class="sample" height="75" src="pictures/samples/asd0715.png">
+            <img class="sample" height="75" src="pictures/samples/asd0720.png">
+            <img class="sample" height="75" src="pictures/samples/asd0975.png">
+        </div>
+    </div>
+    </div>
+</section>
+
+<section class="slide">
+    <div>
+        <h2 class="black">Результат роботи алгоритму Фурукави</h2>
+
+        <column class="place l" style="top: 55%;">
+            <img class="wfill" src="pictures/reconstruction/0.png">
+            <center>Оригінал</center>
+        </column>
+        <column class="place r" style="top: 55%;">
+            <img class="wfill" src="pictures/reconstruction/5.png">
+            <center>Реконструкція</center>
+        </column>
+    </div>
+</section>
+
+<section class="slide">
+    <div>
+        <h2 class="black">Результат роботи алгоритму Эрнанда</h2>
+
+        <column class="place l" style="top: 55%;">
+            <img class="wfill" src="pictures/reconstruction/0.png">
+            <center>Оригінал</center>
+        </column>
+        <column class="place r" style="top: 55%;">
+            <img class="wfill" src="pictures/reconstruction/4.png">
+            <center>Реконструкція</center>
+        </column>
+    </div>
+</section>
+
+<section class="slide">
+    <div>
+        <h2 class="black">Результат роботи алгоритму Вогіатзіс</h2>
+
+        <column class="place l" style="top: 55%;">
+            <img class="wfill" src="pictures/reconstruction/0.png">
+            <center>Оригінал</center>
+        </column>
+        <column class="place r" style="top: 55%;">
+            <img class="wfill" src="pictures/reconstruction/7.png">
+            <center>Реконструкція</center>
+        </column>
+    </div>
+</section>
+
+
+<section class="slide">
+    <div>
+        <h2 class="black">Розрахунок точності</h2>
+
+        <br>
+        <br>
+
+        <center>
+            <img height="70" src="pictures/accuracy.svg">
+        </center>
+    </div>
+</section>
+
+<section class="slide">
+    <div>
+        <h2 class="black">Підсумкові результати</h2>
+
+        <table>
+            <thead>
+            <tr>
+                <th>Алгоритм</th>
+                <th>Крок, мм</th>
+                <th>Точність, %</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Фурукави</td>
+                <td>1.2</td>
+                <td>96.7</td>
+            </tr>
+            <tr>
+                <td>Эрнанда</td>
+                <td>0.8</td>
+                <td>95.1</td>
+            </tr>
+            <tr>
+                <td>Вогіатзіс</td>
+                <td>2.8</td>
+                <td>89.7</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <comment>
+        ## результат
+        Тут рассказать про результаты, какие алгоритмы чего дали.
+    </comment>
+</section>
+
+
+<section class="slide">
+    <div>
+        <h2 class="black" style="width: 110%;">Робота гібридного алгоритму<br>Фурукави та SGSM</h2>
+
+
+        <column class="place l">
+            <br>
+            <br>
+            <br>
+            <img height="330" src="pictures/incremental_sfm2.png">
+        </column>
+
+        <column class="place r">
+            <br>
+            <br>
+
+            <img height="350" src="pictures/algo-selected.svg" style="margin-left: -250px">
+        </column>
+    </div>
+</section>
+
+<section class="slide">
+    <div>
+        <h2 class="black" style="width: 110%;">Результат роботи гібридного алгоритму<br>Фурукави та SGSM</h2>
+
+        <column class="place l" style="top: 55%;">
+            <img class="wfill" src="pictures/reconstruction/0.png">
+            <center>Оригінал</center>
+        </column>
+        <column class="place r" style="top: 55%;">
+            <img class="wfill" src="pictures/reconstruction/1.png">
+            <center>Реконструкція</center>
+        </column>
+    </div>
+</section>
+
+<section class="slide">
+    <div>
+        <h2 class="black">Підсумкові результати</h2>
+
+        <table>
+            <thead>
+            <tr>
+                <th>Алгоритм</th>
+                <th>Крок, мм</th>
+                <th>Точність, %</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>Фурукави</td>
+                <td>1.2</td>
+                <td>96.7</td>
+            </tr>
+            <tr>
+                <td>Эрнанда</td>
+                <td>0.8</td>
+                <td>95.1</td>
+            </tr>
+            <tr>
+                <td>Вогіатзіс</td>
+                <td>2.8</td>
+                <td>89.7</td>
+            </tr>
+            <tr style="background-color: lightgreen">
+                <td>Фурукави + SGSM</td>
+                <td>1.2</td>
+                <td>98.1</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <comment>
+        ## результат
+        Тут рассказать про результаты, какие алгоритмы чего дали.
+    </comment>
+</section>
+
+<!--<section class="slide">-->
+    <!--<div>-->
+        <!--<h2 class="black">Синтез алгоритма</h2>-->
+    <!--</div>-->
+<!--</section>-->
+
+<section class="slide">
+    <div>
+        <h2 class="black">Наукова новизна</h2>
+        <h2>Отримання подальшого розвитку технології 3d реконструкції порожнини рота за допомогою гібридного алгоритму Фурукави
+            та SGSM, що дозволило досягти збільшення точності оптичного 3d сканера порожнини рота.
+        </h2>
+    </div>
+</section>
+
+<section class="slide" id="business-model">
+    <div>
+        <h2 class="black">Бізнес модель</h2>
+
+        <column class="place wfill model-item" style="top: 35%;">Споживчий ринок</column>
+
+        <column class="place wfill model-arrow" style="top: 47.5%;">↓</column>
+        <column class="place wfill model-item" style="top: 60%;">Корпоративні підписки</column>
+
+        <column class="place wfill model-arrow l" style="top: 72.5%;">↓</column>
+        <column class="place l" style="top: 85%;">
+            <div class="model-item">Таргетована реклама</div>
+        </column>
+
+        <column class="place wfill model-arrow r" style="top: 72.5%;">↓</column>
+        <column class="place r" style="top: 85%;">
+            <div class="model-item">Продаж статистики</div>
+        </column>
+    </div>
+
     <style>
-        .contact-icon {
-            width: 32px;
-            height: 32px;
-            margin: 3px;
-            margin-right: 10px;
-            vertical-align: middle;
+        #business-model .model-item {
+            background-color: whitesmoke;
+            padding: 20px 50px;
+            border-radius: 5px;
+            text-align: center;
+        }
+
+        #business-model .model-arrow {
+            text-align: center;
         }
     </style>
+
+    <comment>
+        # бизнес модель
+        На начальных этапах мы займемся продажей девайсов. Фримиум.
+        Бизнес подписка, платная.
+        Можно будет испольвать данные для датамайнинга для последующей продажи.
+        Таргетированая реклама.
+    </comment>
+</section>
+
+<!--<section class="slide">-->
+    <!--<div>-->
+        <!--<h2 class="black">Маркетинг</h2>-->
+<!---->
+        <!--<column class="place l" style="top: 55%;">-->
+            <!--<h3>Средняя стоимость</h3>-->
+<!---->
+            <!--<img class="wfill" style="margin: -60px 0" src="pictures/percents.png">-->
+        <!--</column>-->
+<!---->
+        <!--<column class="place r" style="top: 55%;">-->
+            <!--<h3>Время на санацию</h3>-->
+<!---->
+            <!--<img class="wfill" style="margin: -60px 0" src="pictures/percents.png">-->
+        <!--</column>-->
+    <!--</div>-->
+<!---->
+    <!--<comment>-->
+        <!--Запись на прием - 21-->
+        <!--Время в пути - 35-->
+        <!--Ожидание приема - 28-->
+        <!--Прием - 32-->
+<!---->
+<!---->
+        <!--# маркетинг-->
+        <!--Прежде всего нашими клиентами являются стоматологические практики, а так же их клиенты.-->
+        <!--Размер рынка, стоимость конкурентов.-->
+<!---->
+        <!--Потребительский рынок, тренды на здоровый образ жизни, внедрение технологий в повседневную жизнь, носимая-->
+        <!--электроника.-->
+        <!--Интеграция/Партнерка с Apple HealthKit, Android Fit, Jawbone...-->
+<!---->
+        <!--Привлечению клиентов с потребительского будет способствовать текущие тренды, а так же стоматологические-->
+        <!--практики.-->
+        <!--Привлечение стоматологических практик будет производиться мануально, а так же этому будет способствовать-->
+        <!--конкуренция.-->
+    <!--</comment>-->
+<!--</section>-->
+
+<!--<section class="slide">-->
+<!--<comment>-->
+<!--# планы-->
+<!--Передзаказы и намерения, результаты опросов-->
+<!--</comment>-->
+<!--</section>-->
+
+<section class="slide">
     <div>
-        <h1 class="black">Thanks!</h1>
+        <h2 class="black">Розвиток капіталу проекту</h2>
 
-        <h2 class="black">Feel free to contact:</h2>
+        <column class="place l" style="top: 55%;">
+            <center><img class="wfill" src="pictures/money-short.svg"></center>
+        </column>
+        <column class="place r" style="top: 55%;">
+            <center><img class="wfill" src="pictures/money-long.svg"></center>
+        </column>
+    </div>
 
-        <div><img class="contact-icon" src="pictures/mail-icon.jpg">vyacheslav.goldenshteyn@gmail.com</div>
-        <div><img class="contact-icon" src="pictures/github-icon.jpg">github.com/myzone</div>
-        <div><img class="contact-icon" src="pictures/vk-icon.jpg">vk.com/myzone</div>
-        <div><img class="contact-icon" src="pictures/skype-icon.jpg">my.zo.ne</div>
+    <comment>
+        <pre>
+            #Q Инвестиции   Капитализация   Доходы  Расходы
+            1  20000        0               0       15000
+            3  120000       80000           0       25000
+            5  120000       240000          100000  110000
+            7  120000       400000          300000  80000
+            9  120000       800000          400000  60000
+            11 420000       1000000         450000  140000
+            13 420000       1700000         750000  140000
+        </pre>
+        <pre>set encoding utf8
+set terminal svg size 400,300 enhanced fname 'PT Sans Narrow'  fsize 10 butt solid
+set output 'out.svg'
 
-        <img style="position: absolute; top:25%; left: 56%; height:70%" src="pictures/contacts-qr.gif">
+set key inside top left
+
+set xrange [1:6]
+set yrange [0:]
+
+set grid y
+
+set xtics ("Q1" 1, \
+           "" 2, \
+           "Q3" 3, \
+           "" 4, \
+           "Q5" 5, \
+           "" 6, \
+           "Q7" 7, \
+           "" 8, \
+           "Q9" 9, \
+           "" 10, \
+           "Q11" 11, \
+           "" 12, \
+           "Q13" 13, \
+           "" 14, \
+           "Q15" 15)
+set format y '%.0s %c'
+
+set xlabel 'Час'
+set ylabel 'Гроші, $'
+
+plot \
+	"data.txt" using 1:2:(1) smooth acsplines title 'Інвестиції' with lines, \
+    "data.txt" using 1:3:(1) smooth acsplines title 'Капіталізація' with lines, \
+    "data.txt" using 1:4:(1) smooth acsplines title 'Доходи' with lines, \
+	"data.txt" using 1:5:(1) smooth acsplines title 'Витрати' with lines
+</pre>
+
+        # развитие капитала проекта / потребности
+        Источники инвестирования
+        * краудфандинг
+        * инкубаторы
+        * ангелы
+        * гранты (sikorsky challange)
+    </comment>
+</section>
+
+<section class="slide shout">
+    <div>
+        <h2 class="black point">Дякую за увагу!</h2>
     </div>
 </section>
 

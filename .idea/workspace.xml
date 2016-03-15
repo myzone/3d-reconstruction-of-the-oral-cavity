@@ -2,8 +2,273 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f45fc509-f11e-40f5-9897-14a3db74b56f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/alt1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/alt2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/alt3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/incremental_sfm1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/percents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/reconstruction/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/reconstruction/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/reconstruction/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/reconstruction/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/reconstruction/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/reconstruction/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/reconstruction/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/reconstruction/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/reconstruction/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0010.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0020.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0025.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0030.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0035.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0040.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0045.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0050.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0055.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0060.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0065.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0070.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0075.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0080.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0085.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0090.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0095.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0105.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0110.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0115.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0120.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0125.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0130.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0135.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0140.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0145.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0150.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0155.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0160.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0165.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0170.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0175.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0180.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0185.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0190.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0195.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0200.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0205.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0210.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0215.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0220.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0225.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0230.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0235.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0245.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0250.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0255.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0260.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0265.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0270.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0275.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0280.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0285.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0290.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0295.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0300.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0305.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0310.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0315.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0320.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0325.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0330.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0335.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0340.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0345.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0350.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0355.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0360.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0365.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0370.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0375.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0380.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0385.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0390.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0395.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0405.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0410.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0415.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0420.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0425.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0430.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0435.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0440.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0445.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0450.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0455.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0460.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0465.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0470.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0475.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0480.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0485.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0490.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0495.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0500.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0505.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0510.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0515.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0520.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0525.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0530.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0535.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0540.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0545.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0550.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0555.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0560.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0565.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0570.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0575.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0580.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0585.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0590.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0595.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0605.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0610.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0615.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0620.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0625.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0630.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0635.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0640.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0645.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0650.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0655.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0660.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0665.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0670.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0675.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0680.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0685.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0690.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0695.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0700.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0705.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0710.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0715.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0720.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0725.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0730.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0735.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0740.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0745.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0750.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0755.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0760.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0765.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0770.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0775.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0780.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0785.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0790.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0795.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0800.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0805.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0810.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0815.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0820.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0825.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0830.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0835.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0840.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0845.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0850.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0855.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0860.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0865.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0870.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0875.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0880.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0885.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0890.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0895.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0900.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0905.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0910.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0915.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0920.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0925.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0930.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0935.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0940.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0945.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0950.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0955.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0960.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0965.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0970.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0975.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0980.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0985.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0990.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd0995.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/samples/asd1000.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/solution.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/accuracy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/algo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/chart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/money-long.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/money-short.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/text" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/16.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/18.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/19.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/20.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/main/kitchen.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/11.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/12.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/13.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/14.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/15.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/16.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/17.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/18.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/19.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/20.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/6.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/7.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/8.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/9.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pictures/vector/kitchen.svg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="fsm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,96 +289,12 @@
     <favorites_list name="fsm" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15367965">
-              <caret line="315" column="53" selection-start-line="315" selection-start-column="53" selection-end-line="315" selection-end-column="53" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#section#35;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="13.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pictures/vector/13.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="14.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pictures/vector/14.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="15.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pictures/vector/15.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="16.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pictures/vector/16.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="17.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pictures/vector/17.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="18.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pictures/vector/18.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="19.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pictures/vector/19.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="20.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pictures/vector/20.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="16">
+              <caret line="520" column="0" selection-start-line="520" selection-start-column="0" selection-end-line="520" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -158,11 +339,22 @@
         <option value="$PROJECT_DIR$/pictures/vector/18.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/19.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/20.svg" />
+        <option value="$PROJECT_DIR$/pictures/chart.svg" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6" />
+        <option value="$PROJECT_DIR$/pictures/money-short.svg" />
+        <option value="$PROJECT_DIR$/pictures/modey-long.svg" />
+        <option value="$PROJECT_DIR$/pictures/incremental_sfm1.svg" />
+        <option value="$USER_HOME$/Downloads/incremental_sfm1 (1).svg" />
+        <option value="$USER_HOME$/Downloads/incremental_sfm1 (2).svg" />
+        <option value="$PROJECT_DIR$/text.html" />
+        <option value="$PROJECT_DIR$/pictures/algo.svg" />
+        <option value="$PROJECT_DIR$/text" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
@@ -173,14 +365,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="NamedScopeManager">
-    <order />
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="x" value="168" />
+    <option name="y" value="32" />
+    <option name="width" value="929" />
+    <option name="height" value="740" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -239,8 +428,12 @@
       <autoscrollToSource />
       <autoscrollFromSource />
       <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -255,127 +448,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Lets cook agile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fsm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lets cook agile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shower" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fsm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lets cook agile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shower" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fsm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lets cook agile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shower" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bright" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fsm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lets cook agile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shower" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bright" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fsm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lets cook agile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pictures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fsm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lets cook agile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pictures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vector" />
+              <option name="myItemId" value="presentation" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -387,16 +466,24 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="LayoutCode.rearrangeEntriesHTML" value="true" />
-    <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/incremental_sfm1 (2).svg" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="ignore_missing_gitignore" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/myzone/Code/presentation/shower/themes/bright/styles/screen.css" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Markdown&#10;Manifest" />
+    <property name="full.screen.before.presentation.mode" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/pictures" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pictures" />
       <recent name="C:\Users\vgoldenshteyn\Desktop\fsm-presentation-gh-pages\pictures\main" />
     </key>
   </component>
@@ -408,47 +495,6 @@
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
-      <module name="" />
-      <option name="ACTIVITY_CLASS" value="" />
-      <option name="MODE" value="default_activity" />
-      <option name="DEPLOY" value="true" />
-      <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -475,111 +521,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="INTERPRETER_PATH" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="PARAMETERS" value="" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
-      <option name="BCName" value="" />
-      <option name="IOSSimulatorSdkPath" value="" />
-      <option name="adlOptions" value="" />
-      <option name="airProgramParameters" value="" />
-      <option name="appDescriptorForEmulator" value="Android" />
-      <option name="debugTransport" value="USB" />
-      <option name="debuggerSdkRaw" value="BC SDK" />
-      <option name="emulator" value="NexusOne" />
-      <option name="emulatorAdlOptions" value="" />
-      <option name="fastPackaging" value="true" />
-      <option name="fullScreenHeight" value="0" />
-      <option name="fullScreenWidth" value="0" />
-      <option name="launchUrl" value="false" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="mobileRunTarget" value="Emulator" />
-      <option name="moduleName" value="" />
-      <option name="overriddenMainClass" value="" />
-      <option name="overriddenOutputFileName" value="" />
-      <option name="overrideMainClass" value="false" />
-      <option name="runTrusted" value="true" />
-      <option name="screenDpi" value="0" />
-      <option name="screenHeight" value="0" />
-      <option name="screenWidth" value="0" />
-      <option name="url" value="http://" />
-      <option name="usbDebugPort" value="7936" />
-      <method />
-    </configuration>
-    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
-      <option name="BCName" value="" />
-      <option name="launcherParameters">
-        <LauncherParameters>
-          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-          <option name="launcherType" value="OSDefault" />
-          <option name="newPlayerInstance" value="false" />
-          <option name="playerPath" value="FlashPlayerDebugger.exe" />
-        </LauncherParameters>
-      </option>
-      <option name="moduleName" value="" />
-      <option name="trusted" value="true" />
-      <method />
-    </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <module name="" />
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="depsClasspath" value="false" />
-      <setting name="passParentEnv" value="true" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <setting name="launchBrowser" value="false" />
-      <method />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -601,16 +542,74 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
       <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <profiling log-folder="C:\Users\vgoldenshteyn\Desktop\fsm-presentation-gh-pages" />
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="fsm" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -619,40 +618,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -664,10 +629,10 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
       <method />
     </configuration>
     <list size="1">
@@ -683,7 +648,9 @@
       <Port>5050</Port>
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -703,6 +670,47 @@
       <workItem from="1434461127106" duration="7758000" />
       <workItem from="1434491514799" duration="700000" />
       <workItem from="1434492282170" duration="7852000" />
+      <workItem from="1449406913384" duration="1873000" />
+      <workItem from="1449409184821" duration="1333000" />
+      <workItem from="1449411157512" duration="1993000" />
+      <workItem from="1449420271696" duration="1098000" />
+      <workItem from="1449422146528" duration="784000" />
+      <workItem from="1449437374873" duration="1831000" />
+      <workItem from="1449439612193" duration="750000" />
+      <workItem from="1449442176398" duration="1967000" />
+      <workItem from="1449444394269" duration="1546000" />
+      <workItem from="1449446433178" duration="1539000" />
+      <workItem from="1449479013611" duration="572000" />
+      <workItem from="1449496727013" duration="1715000" />
+      <workItem from="1449517587551" duration="1251000" />
+      <workItem from="1449586415054" duration="320000" />
+      <workItem from="1449671507264" duration="1737000" />
+      <workItem from="1449673776303" duration="1774000" />
+      <workItem from="1449676374555" duration="1572000" />
+      <workItem from="1449699156996" duration="1734000" />
+      <workItem from="1449700972966" duration="782000" />
+      <workItem from="1449703393350" duration="643000" />
+      <workItem from="1449706225892" duration="1480000" />
+      <workItem from="1449743086520" duration="296000" />
+      <workItem from="1449743439663" duration="66000" />
+      <workItem from="1449750909793" duration="132000" />
+      <workItem from="1449769666783" duration="958000" />
+      <workItem from="1449915374298" duration="467000" />
+      <workItem from="1449916031019" duration="195000" />
+      <workItem from="1449916243287" duration="189000" />
+      <workItem from="1449916470690" duration="2331000" />
+      <workItem from="1449969554367" duration="17440000" />
+      <workItem from="1450051133226" duration="10070000" />
+      <workItem from="1450186412653" duration="485000" />
+      <workItem from="1450194459091" duration="16161000" />
+      <workItem from="1450730895582" duration="14463000" />
+      <workItem from="1450800956329" duration="62000" />
+      <workItem from="1450801069781" duration="10889000" />
+      <workItem from="1450875971671" duration="198000" />
+      <workItem from="1450877278168" duration="948000" />
+      <workItem from="1450888045262" duration="13000" />
+      <workItem from="1450888167319" duration="166000" />
+      <workItem from="1450895061029" duration="858000" />
     </task>
     <task id="LOCAL-00001" summary="Добавил векторных картинок и текст на русском">
       <created>1434496808965</created>
@@ -726,41 +734,41 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48700000" />
+    <option name="totallyTimeSpent" value="153381000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="168" y="32" width="929" height="740" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32987013" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22851002" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39958376" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Kotlin Bytecode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37288135" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18299246" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991013" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Kotlin Bytecode" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3992298" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37227213" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -789,6 +797,181 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="33" column="32" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/incremental_sfm1.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/incremental_sfm1 (1).svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/incremental_sfm1 (2).svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/chart.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="231" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/algo.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/money-short.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/money-long.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="131" column="22" selection-start-line="131" selection-start-column="22" selection-end-line="131" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="305" column="42" selection-start-line="305" selection-start-column="42" selection-end-line="305" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="258" column="28" selection-start-line="258" selection-start-column="28" selection-end-line="258" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pictures/github-icon1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -801,17 +984,15 @@
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27604872">
+        <state relative-caret-position="0">
           <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/legacy.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32205683">
+        <state relative-caret-position="0">
           <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -842,7 +1023,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shower/themes/ribbon/images/ribbon.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
@@ -852,291 +1033,109 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shower/themes/ribbon/styles/screen.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21564482">
-          <caret line="6" column="7642" selection-start-line="6" selection-start-column="7642" selection-end-line="6" selection-end-column="7642" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33240223">
+        <state relative-caret-position="0">
           <caret line="217" column="16" selection-start-line="217" selection-start-column="16" selection-end-line="217" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/9.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/6.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/5.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/14.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/13.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/12.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/11.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/10.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/main/kitchen.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FSM Programming/pictures/calc-fsm-graph.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.023842918">
-          <caret line="1" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/kitchen.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FSM Programming/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7122905">
-          <caret line="165" column="8" selection-start-line="165" selection-start-column="8" selection-end-line="165" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/1.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/2.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/3.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/4.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/5.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/6.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/7.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/8.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/9.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/10.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/11.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/12.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/13.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/14.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/15.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/16.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/17.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/18.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/19.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/20.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shower/themes/bright/styles/screen.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37527114">
+        <state relative-caret-position="0">
           <caret line="6" column="4684" selection-start-line="6" selection-start-column="4684" selection-end-line="6" selection-end-column="4684" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/icon.hands/icon.hands.eps">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shower/themes/ribbon/styles/screen.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="10987" selection-start-line="6" selection-start-column="10981" selection-end-line="6" selection-end-column="10987" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/money-long.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="131" column="22" selection-start-line="131" selection-start-column="22" selection-end-line="131" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/money-short.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="122" column="22" selection-start-line="122" selection-start-column="22" selection-end-line="122" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/chart.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="231" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/incremental_sfm1 (1).svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/incremental_sfm1 (2).svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/incremental_sfm1.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/algo.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1765" selection-start-line="0" selection-start-column="1765" selection-end-line="0" selection-end-column="1765" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="50" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15367965">
-          <caret line="315" column="53" selection-start-line="315" selection-start-column="53" selection-end-line="315" selection-end-column="53" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#section#35;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="16">
+          <caret line="520" column="0" selection-start-line="520" selection-start-column="0" selection-end-line="520" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
